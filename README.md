@@ -1,6 +1,7 @@
 # Deploying an Amazon EKS Application Using CDK8s
 
 This guide details how to deploy an Amazon EKS cluster using AWS CDK and create and deploy a Service and Deployment using CDK8s.
+![CDk8s](https://github.com/user-attachments/assets/094c1c7f-363c-4f56-a607-4d4a17472210)
 
 ## Prerequisites
 
